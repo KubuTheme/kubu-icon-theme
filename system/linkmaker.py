@@ -31,7 +31,7 @@ icons = {
         "tild.svg",
         "tilda.svg",
         "tilix.svg",
-        "utilities_terminal.svg",
+        "utilities-terminal.svg",
         "uxterm.svg",
         "vala-terminal.svg",
         "aterm.svg",
