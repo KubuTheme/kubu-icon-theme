@@ -7,16 +7,15 @@
 	.st1{fill:url(#SVGID_2_);}
 	.st2{fill:#FFFFFF;}
 	.st3{fill:url(#SVGID_3_);}
-	
-		.st4{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#E26758;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#E26758;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="20.5905" y1="2.9373" x2="55.7411" y2="64.642" gradientTransform="matrix(1 0 0 -1 0 66)">
-	<stop  offset="0" style="stop-color:#E78275"/>
-	<stop  offset="1" style="stop-color:#DC4C3A"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="25.6229" y1="76.7814" x2="45.3648" y2="6.8459">
+	<stop  offset="0" style="stop-color:#DC4C3A"/>
+	<stop  offset="1" style="stop-color:#E78275"/>
 </linearGradient>
-<path class="st0" d="M61.4,19.3l0,38.4c0,2.1-1.7,3.8-3.8,3.8H18.9c-2.1,0-3.8-1.7-3.8-3.8l0-51.3c0-2.1,1.7-3.8,3.8-3.8h25.7
-	L61.4,19.3L61.4,19.3z"/>
-<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="48.7919" y1="42.6886" x2="62.7273" y2="83.6241" gradientTransform="matrix(1 0 0 -1 0 66)">
+<path class="st0" d="M61.4,19.3v38.4c0,2.1-1.7,3.8-3.8,3.8H18.9c-2.1,0-3.8-1.7-3.8-3.8V6.4c0-2.1,1.7-3.8,3.8-3.8h25.7L61.4,19.3
+	L61.4,19.3z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="57.9034" y1="5.7524" x2="38.5485" y2="26.2686">
 	<stop  offset="0" style="stop-color:#E78275"/>
 	<stop  offset="1" style="stop-color:#DC4C3A"/>
 </linearGradient>
@@ -28,7 +27,7 @@
 	<rect x="21.3" y="45.8" class="st2" width="33.9" height="2"/>
 	<rect x="21.3" y="52.7" class="st2" width="33.9" height="2"/>
 </g>
-<radialGradient id="SVGID_3_" cx="19.1935" cy="35.871" r="38.6712" gradientTransform="matrix(1 0 0 -1 0 66)" gradientUnits="userSpaceOnUse">
+<radialGradient id="SVGID_3_" cx="19.1935" cy="1044.129" r="38.6712" gradientTransform="matrix(1 0 0 1 0 -1014)" gradientUnits="userSpaceOnUse">
 	<stop  offset="0.1508" style="stop-color:#FFFFFF"/>
 	<stop  offset="0.3182" style="stop-color:#F4F5F5"/>
 	<stop  offset="0.6089" style="stop-color:#D8D8DB"/>
@@ -37,6 +36,6 @@
 </radialGradient>
 <path class="st3" d="M31.6,48.8H7.1c-2.5,0-4.5-2-4.5-4.5V19.8c0-2.5,2-4.5,4.5-4.5h24.5c2.5,0,4.5,2,4.5,4.5v24.5
 	C36.1,46.7,34.1,48.8,31.6,48.8z"/>
-<path class="st4" d="M16.9,30.8V21h5.3c3.8,0,7,3.1,7,7v0c0,3.8-3.1,7-7,7h-8.6c-2.3,0-4.2,1.9-4.2,4.2v0c0,2.3,1.9,4.2,4.2,4.2
-	l3.2,0v-4.1"/>
+<path class="st4" d="M16.9,30.8V21h5.3c3.8,0,7,3.1,7,7l0,0c0,3.8-3.1,7-7,7h-8.6c-2.3,0-4.2,1.9-4.2,4.2l0,0c0,2.3,1.9,4.2,4.2,4.2
+	h3.2v-4.1"/>
 </svg>

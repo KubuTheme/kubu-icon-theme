@@ -9,15 +9,20 @@
 	.st3{fill:url(#SVGID_3_);}
 	.st4{fill:none;stroke:#F7914B;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="17.9609" y1="5.348" x2="63.662" y2="69.8865" gradientTransform="matrix(1 0 0 -1 0 66)">
-	<stop  offset="0" style="stop-color:#FDB15A"/>
-	<stop  offset="1" style="stop-color:#F2723C"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="17.9609" y1="1074.652" x2="63.662" y2="1010.1135" gradientTransform="matrix(1 0 0 1 0 -1014)">
+	<stop  offset="0" style="stop-color:#F3793F"/>
+	<stop  offset="0.2981" style="stop-color:#F78E49"/>
+	<stop  offset="0.7362" style="stop-color:#FBA855"/>
+	<stop  offset="1" style="stop-color:#FDB15A"/>
 </linearGradient>
 <path class="st0" d="M61.4,19.3v38.3c0,2.1-1.7,3.8-3.8,3.8H18.9c-2.1,0-3.8-1.7-3.8-3.8V6.4c0-2.1,1.7-3.8,3.8-3.8h25.7L61.4,19.3
 	L61.4,19.3z"/>
-<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="41.1323" y1="1034.4747" x2="71.1968" y2="1010.3457" gradientTransform="matrix(1 0 0 1 0 -1014)">
-	<stop  offset="0" style="stop-color:#FDB15A"/>
-	<stop  offset="1" style="stop-color:#F2723C"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="31.9989" y1="-975.805" x2="62.0634" y2="-951.676" gradientTransform="matrix(1 0 0 -1 0 -948)">
+	<stop  offset="0" style="stop-color:#F2723C"/>
+	<stop  offset="0.1732" style="stop-color:#F37940"/>
+	<stop  offset="0.4331" style="stop-color:#F78E49"/>
+	<stop  offset="0.7461" style="stop-color:#FDAF59"/>
+	<stop  offset="0.7605" style="stop-color:#FDB15A"/>
 </linearGradient>
 <path class="st1" d="M61.4,19.3H48.1c-1.9,0-3.5-1.6-3.5-3.5V2.6L61.4,19.3z"/>
 <g>
@@ -39,7 +44,8 @@
 	<rect x="20.8" y="52.6" class="st2" width="2" height="2"/>
 </g>
 <g>
-	<radialGradient id="SVGID_3_" cx="19.1935" cy="30.129" r="38.6712" gradientUnits="userSpaceOnUse">
+	
+		<radialGradient id="SVGID_3_" cx="19.1935" cy="35.871" r="38.6712" gradientTransform="matrix(1 0 0 -1 0 66)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0.1508" style="stop-color:#FFFFFF"/>
 		<stop  offset="0.3182" style="stop-color:#F4F5F5"/>
 		<stop  offset="0.6089" style="stop-color:#D8D8DB"/>

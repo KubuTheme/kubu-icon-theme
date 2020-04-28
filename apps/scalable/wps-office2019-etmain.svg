@@ -9,7 +9,7 @@
 	.st3{fill:url(#SVGID_3_);}
 	.st4{fill:none;stroke:#19C247;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="19.6257" y1="63.4829" x2="63.0774" y2="-9.9687">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="46.9253" y1="-14.6527" x2="28.4737" y2="84.5731">
 	<stop  offset="0" style="stop-color:#2BC25B"/>
 	<stop  offset="0.294" style="stop-color:#29BF58"/>
 	<stop  offset="0.5502" style="stop-color:#25B44F"/>
@@ -18,7 +18,7 @@
 </linearGradient>
 <path class="st0" d="M61.4,19.3v38.3c0,2.1-1.7,3.8-3.8,3.8H18.9c-2.1,0-3.8-1.7-3.8-3.8V6.4c0-2.1,1.7-3.8,3.8-3.8h25.7L61.4,19.3z
 	"/>
-<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="44.8686" y1="1033.3931" x2="75.159" y2="1001.9414" gradientTransform="matrix(1 0 0 1 0 -1014)">
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="69.344" y1="-11.5513" x2="22.7634" y2="52.5777">
 	<stop  offset="0" style="stop-color:#23C24E"/>
 	<stop  offset="0.3184" style="stop-color:#13C243"/>
 	<stop  offset="0.7263" style="stop-color:#138C2E"/>
@@ -48,7 +48,7 @@
 </g>
 <g>
 	
-		<radialGradient id="SVGID_3_" cx="19.1935" cy="35.871" r="38.6712" gradientTransform="matrix(1 0 0 -1 0 66)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="SVGID_3_" cx="19.1935" cy="1044.129" r="38.6712" gradientTransform="matrix(1 0 0 1 0 -1014)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0.1508" style="stop-color:#FFFFFF"/>
 		<stop  offset="0.3182" style="stop-color:#F4F5F5"/>
 		<stop  offset="0.6089" style="stop-color:#D8D8DB"/>
@@ -58,8 +58,8 @@
 	<path class="st3" d="M31.6,48.8H7.1c-2.5,0-4.5-2-4.5-4.5V19.8c0-2.5,2-4.5,4.5-4.5h24.5c2.5,0,4.5,2,4.5,4.5v24.5
 		C36.1,46.7,34.1,48.8,31.6,48.8z"/>
 	<g transform="translate(0 -.8841)">
-		<path class="st4" d="M19.3,32.9h-6.3c0,0-3.8,0-3.8-3.8s3.8-3.8,3.8-3.8h15.1 M19.4,32.9h6.3c0,0,3.8,0,3.8,3.8
-			c0,3.8-3.8,3.8-3.8,3.8H10.6"/>
+		<path class="st4" d="M19.3,32.9H13c0,0-3.8,0-3.8-3.8s3.8-3.8,3.8-3.8h15.1 M19.4,32.9h6.3c0,0,3.8,0,3.8,3.8s-3.8,3.8-3.8,3.8
+			H10.6"/>
 	</g>
 </g>
 </svg>
