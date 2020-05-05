@@ -3,23 +3,27 @@
 <svg version="1.1" id="system-monitor" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.17;}
-	.st1{opacity:0.36;}
+	.st0{opacity:0.17;fill:url(#SVGID_1_);enable-background:new    ;}
+	.st1{opacity:0.36;enable-background:new    ;}
 	.st2{fill:#191919;}
 	.st3{opacity:0.1;}
 	.st4{fill:none;stroke:#DEFFDE;stroke-width:0.2;stroke-miterlimit:10;}
 	.st5{opacity:0.4;}
 	.st6{fill:#FFFFFF;stroke:#000000;stroke-width:0.2;stroke-miterlimit:10;}
-	.st7{opacity:0.15;fill:url(#SVGID_1_);enable-background:new    ;}
+	.st7{opacity:0.15;fill:url(#SVGID_2_);enable-background:new    ;}
 	.st8{opacity:0.7;}
 	.st9{fill:none;stroke:#9BBC9B;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st10{fill:url(#SVGID_2_);}
+	.st10{fill:url(#SVGID_3_);}
 </style>
 <g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="32" y1="8.9355" x2="32" y2="45.4233">
+		<stop  offset="0" style="stop-color:#020202;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
 	<path class="st0" d="M58.8,8.7H5.2c-2.2,0-4,1.9-4,4.2v43.7c0,2.4,1.8,4.2,4,4.2h53.5c2.2,0,4-1.9,4-4.2V13
-		C62.7,10.6,61,8.7,58.8,8.7z"/>
+		C62.8,10.6,61,8.7,58.8,8.7z"/>
 	<path class="st1" d="M57.3,59.6H6.7c-2.1,0-3.7-1.7-3.7-3.7v-2.6c0-3.6,2.9-6.6,6.6-6.6h45c3.6,0,6.6,2.9,6.6,6.6v2.6
-		C61.1,57.9,59.4,59.6,57.3,59.6z"/>
+		C61.1,57.9,59.5,59.6,57.3,59.6z"/>
 </g>
 <path class="st2" d="M56.8,57.4H7.2c-2.1,0-3.8-1.9-3.8-4.2V10.8c0-2.3,1.7-4.2,3.8-4.2h49.6c2.1,0,3.8,1.9,3.8,4.2v42.4
 	C60.6,55.5,58.9,57.4,56.8,57.4z"/>
@@ -269,7 +273,7 @@
 	<circle class="st6" cx="46" cy="53.1" r="0.2"/>
 	<circle class="st6" cx="50.7" cy="53.1" r="0.2"/>
 </g>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="31.5844" y1="1049.4008" x2="32.3359" y2="1078.505" gradientTransform="matrix(1 0 0 1 0 -1014)">
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="31.5844" y1="-983.4008" x2="32.3359" y2="-1012.505" gradientTransform="matrix(1 0 0 -1 0 -948)">
 	<stop  offset="0" style="stop-color:#B1FFB1"/>
 	<stop  offset="0.1156" style="stop-color:#ACF7AC"/>
 	<stop  offset="0.2904" style="stop-color:#9FE39F"/>
@@ -283,7 +287,7 @@
 	<polyline class="st9" points="60.3,33 53.5,34.6 46.3,33.1 41.6,28.4 37.3,30.4 34.3,39.7 31.3,41.7 29.1,37.9 27.1,28.3 
 		22.4,24.8 19.8,31.5 16.3,35.1 9.5,32 3.9,33 	"/>
 </g>
-<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="32" y1="1072.1205" x2="32" y2="1019.1982" gradientTransform="matrix(1 0 0 1 0 -1014)">
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="32" y1="-1006.1205" x2="32" y2="-953.1982" gradientTransform="matrix(1 0 0 -1 0 -948)">
 	<stop  offset="0" style="stop-color:#9B9B9B"/>
 	<stop  offset="0.3806" style="stop-color:#BBBBBB"/>
 	<stop  offset="0.5907" style="stop-color:#D1D1D1"/>
