@@ -1,70 +1,73 @@
 import os
 
 icons = {
-    "telegram.svg":[
-        "chrome-https___telegram.org_.svg",
-        "goa-account-telegram.svg",
-        "org.telegram.desktop.svg",
-        "telegram-desktop.svg",
-        "unity-webapps-telegram.svg",
-        "web-telegram.svg"
+    "":[
+        "intellij-idea-community"
+    ]
+    "telegram":[
+        "chrome-https___telegram.org_",
+        "goa-account-telegram",
+        "org.telegram.desktop",
+        "telegram-desktop",
+        "unity-webapps-telegram",
+        "web-telegram"
     ],
-    "vs-code.svg":[
-        "visual-studio-code.svg",
-        "com.visualstudio.code.svg",
-        "com.visualstudio.code-oss.svg",
-        "com.visualstudio.code.oss.svg",
-        "visualstudiocode.svg",
-        "code-oss.svg",
-        "vscodium.svg",
-        "vscode.svg",
-        "vso.svg",
-        "vsc.svg"
+    "vs-code":[
+        "visual-studio-code",
+        "com.visualstudio.code",
+        "com.visualstudio.code-oss",
+        "com.visualstudio.code.oss",
+        "visualstudiocode",
+        "code-oss",
+        "vscodium",
+        "vscode",
+        "vso",
+        "vsc"
     ],
-    "firefox.svg":[
-        "firefox-3.0.svg",
-        "firefox-3.5.svg",
-        "firefox-4.0.svg",
-        "firefox-beta-bin.svg",
-        "firefox-bin.svg",
-        "firefox-beta.svg",
-        "firefox-default.svg",
-        "firefox-esr.svg",
-        "firefox-gtk3.svg",
-        "firefox-icon.svg"
+    "firefox":[
+        "firefox-3.0",
+        "firefox-3.5",
+        "firefox-4.0",
+        "firefox-beta-bin",
+        "firefox-bin",
+        "firefox-beta",
+        "firefox-default",
+        "firefox-esr",
+        "firefox-gtk3",
+        "firefox-icon"
     ],
-    "discord.svg":[
-        "discord-ptb.svg",
-        "web-discord.svg",
-        "com.discordapp.Discord.svg"
+    "discord":[
+        "discord-ptb",
+        "web-discord",
+        "com.discordapp.Discord"
     ],
-    "spotify.svg":[
-        "Spotify.svg",
-        "spotify_A.svg",
-        "spotify-client.svg",
-        "spotify-linux-48x48.svg",
-        "spotify-linux-512x512.svg",
-        "spotify-web-player.svg",
-        "spotify-client.svg"
-        "spotifywebplayer.svg"
+    "spotify":[
+        "Spotify",
+        "spotify_A",
+        "spotify-client",
+        "spotify-linux-48x48",
+        "spotify-linux-512x512",
+        "spotify-web-player",
+        "spotify-client"
+        "spotifywebplayer"
     ],
-    "google-chrome.svg":[
-        "chrome.svg",
-        "google-chrome2.svg",
-        "google-chrome-dev.svg",
-        "google-chrome-beta.svg",
-        "googlechrome.svg",
-        "google-chrome-unstable.svg"
+    "google-chrome":[
+        "chrome",
+        "google-chrome2",
+        "google-chrome-dev",
+        "google-chrome-beta",
+        "googlechrome",
+        "google-chrome-unstable"
     ],
-    "vlc.svg":[
-        "org.videolan.VLC.svg",
-        "Vlc.svg"
+    "vlc":[
+        "org.videolan.VLC",
+        "Vlc"
     ]
 }
 
 for key in icons:
     for link in icons[key]:
-        cmd = 'ln -s ./../scalable/'+key+' ./links/'+link
+        cmd = f"ln -s ./../scalable/{key}.svg ./links/{link}.svg"
         os.system(cmd)
 
 print('done ...')
