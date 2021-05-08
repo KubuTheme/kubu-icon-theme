@@ -25,36 +25,42 @@ FollowsColorScheme=true
 KDE-Extensions=.svg
 
 #Directory list
-Directories=apps/scalable,apps/links,system/scalable,system/links,actions/scalable
+Directories=apps/32w,apps/64w,apps/128w,apps/512w,system/scalable,system/links,actions/scalable
 
-[apps/scalable]
-Size=64
+#==============================================================================
+#Applications related icon definitions.
+#==============================================================================
+[apps/32w]
+Size=32
 Context=Applications
 MinSize=16
-MaxSize=1024
+MaxSize=32
 Type=Scalable
 
-[apps/links]
+[apps/64w]
 Size=64
 Context=Applications
-MinSize=16
-MaxSize=1024
+MinSize=33
+MaxSize=64
 Type=Scalable
 
-[system/scalable]
-Size=64
+[system/128w]
+Size=128
 Context=Applications
-MinSize=16
-MaxSize=1024
+MinSize=65
+MaxSize=128
 Type=Scalable
 
-[system/links]
-Size=64
+[system/512w]
+Size=512
 Context=Applications
-MinSize=16
-MaxSize=1024
+MinSize=129
+MaxSize=512
 Type=Scalable
 
+#==============================================================================
+#Applications related icon definitions.
+#==============================================================================
 [actions/scalable]
 Size=16
 Context=Actions

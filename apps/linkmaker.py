@@ -1,6 +1,5 @@
 import os
 
-icons = dict()
 icons = {
     "telegram.svg":[
         "chrome-https___telegram.org_.svg",
@@ -10,7 +9,8 @@ icons = {
         "unity-webapps-telegram.svg",
         "web-telegram.svg"
     ],
-    "visual-studio-code.svg":[
+    "vs-code.svg":[
+        "visual-studio-code.svg",
         "com.visualstudio.code.svg",
         "com.visualstudio.code-oss.svg",
         "com.visualstudio.code.oss.svg",
@@ -48,15 +48,15 @@ icons = {
         "spotify-client.svg"
         "spotifywebplayer.svg"
     ],
-    "chrome.svg":[
+    "google-chrome.svg":[
+        "chrome.svg",
         "google-chrome2.svg",
         "google-chrome-dev.svg",
-        "google-chrome.svg",
         "google-chrome-beta.svg",
         "googlechrome.svg",
         "google-chrome-unstable.svg"
     ],
-    "vlc":[
+    "vlc.svg":[
         "org.videolan.VLC.svg",
         "Vlc.svg"
     ]
