@@ -1,9 +1,12 @@
 import os
 
 icons = {
-    "":[
+    "jetbrains-intellij":[
+        "intellij",
+        "intellij-idea",
+        "jetbrains-idea-ce",
         "intellij-idea-community"
-    ]
+    ],
     "telegram":[
         "chrome-https___telegram.org_",
         "goa-account-telegram",
@@ -64,6 +67,8 @@ icons = {
         "Vlc"
     ]
 }
+
+os.system("mkdir ./links")
 
 for key in icons:
     for link in icons[key]:
