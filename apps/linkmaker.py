@@ -1,11 +1,23 @@
 import os
 
 icons = {
+    "ms-office-teams": [
+        "teams"
+    ],
     "jetbrains-intellij":[
         "intellij",
         "intellij-idea",
         "jetbrains-idea-ce",
         "intellij-idea-community"
+    ],
+    "jetbrains-pycharm": [
+        "pycharm",
+        "pycharm-professional",
+        "pycharm-education",
+        "pycharm-community",
+        "com.jetbrains.PyCharm",
+        "com.jetbrains.PyCharm-Professional",
+        "com.jetbrains.PyCharm-Community"
     ],
     "telegram":[
         "chrome-https___telegram.org_",
@@ -27,7 +39,7 @@ icons = {
         "vso",
         "vsc"
     ],
-    "firefox":[
+    "firefox-dark":[
         "firefox-3.0",
         "firefox-3.5",
         "firefox-4.0",
@@ -62,17 +74,47 @@ icons = {
         "googlechrome",
         "google-chrome-unstable"
     ],
+    "google-chromium": [
+        "chromium"
+    ],
     "vlc":[
         "org.videolan.VLC",
         "Vlc"
+    ],
+    "vim":[
+        "vim-qt",
+        "vimlogo"
+    ],
+    "file-manager": [
+        "dolphin",
+        "thunar",
+        "Thunar",
+        "thunar-filemanager",
+        "system-file-manager",
+        "spacefm",
+        "dde-file-manager",
+        "org.kde.dolphin"
+    ],
+    "skype": [
+        "Skype",
+        "skypeforlinux",
+        "skype_protocol"
+    ],
+    "spotify": [
+        "Spotify",
+        "com.spotify.Client"
+    ],
+    "lollypop": [
+        "org.gnome.Lollypop",
+        "Lollypop"
     ]
 }
 
-os.system("mkdir ./links")
+os.system("mkdir -f ./links")
 
 for key in icons:
     for link in icons[key]:
-        cmd = f"ln -s ./../scalable/{key}.svg ./links/{link}.svg"
+        cmd = f"ln -f -s ./../scalable/{key}.svg ./links/{link}.svg"
         os.system(cmd)
 
 print('done ...')
