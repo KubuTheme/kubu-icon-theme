@@ -2,11 +2,11 @@
 
 
 ## Icons previews
-Microsoft Office
-![Microsoft Office](previews/ms-office.png)
+Microsoft Office <br>
+![Microsoft Office](previews/ms-office-previews.png)
 
-Jetbrains software
+Jetbrains software <br>
 ![Jetbrains](previews/jetbrains-previews.png)
 
-Adobe creative cloud
+Adobe creative cloud <br>
 ![Adobe suite](previews/adobe-previews.png)
