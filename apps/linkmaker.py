@@ -1,70 +1,120 @@
 import os
 
-icons = dict()
 icons = {
-    "telegram.svg":[
-        "chrome-https___telegram.org_.svg",
-        "goa-account-telegram.svg",
-        "org.telegram.desktop.svg",
-        "telegram-desktop.svg",
-        "unity-webapps-telegram.svg",
-        "web-telegram.svg"
+    "ms-office-teams": [
+        "teams"
     ],
-    "visual-studio-code.svg":[
-        "com.visualstudio.code.svg",
-        "com.visualstudio.code-oss.svg",
-        "com.visualstudio.code.oss.svg",
-        "visualstudiocode.svg",
-        "code-oss.svg",
-        "vscodium.svg",
-        "vscode.svg",
-        "vso.svg",
-        "vsc.svg"
+    "jetbrains-intellij":[
+        "intellij",
+        "intellij-idea",
+        "jetbrains-idea-ce",
+        "intellij-idea-community"
     ],
-    "firefox.svg":[
-        "firefox-3.0.svg",
-        "firefox-3.5.svg",
-        "firefox-4.0.svg",
-        "firefox-beta-bin.svg",
-        "firefox-bin.svg",
-        "firefox-beta.svg",
-        "firefox-default.svg",
-        "firefox-esr.svg",
-        "firefox-gtk3.svg",
-        "firefox-icon.svg"
+    "jetbrains-pycharm": [
+        "pycharm",
+        "pycharm-professional",
+        "pycharm-education",
+        "pycharm-community",
+        "com.jetbrains.PyCharm",
+        "com.jetbrains.PyCharm-Professional",
+        "com.jetbrains.PyCharm-Community"
     ],
-    "discord.svg":[
-        "discord-ptb.svg",
-        "web-discord.svg",
-        "com.discordapp.Discord.svg"
+    "telegram":[
+        "chrome-https___telegram.org_",
+        "goa-account-telegram",
+        "org.telegram.desktop",
+        "telegram-desktop",
+        "unity-webapps-telegram",
+        "web-telegram"
     ],
-    "spotify.svg":[
-        "Spotify.svg",
-        "spotify_A.svg",
-        "spotify-client.svg",
-        "spotify-linux-48x48.svg",
-        "spotify-linux-512x512.svg",
-        "spotify-web-player.svg",
-        "spotify-client.svg"
-        "spotifywebplayer.svg"
+    "vs-code":[
+        "visual-studio-code",
+        "com.visualstudio.code",
+        "com.visualstudio.code-oss",
+        "com.visualstudio.code.oss",
+        "visualstudiocode",
+        "code-oss",
+        "vscodium",
+        "vscode",
+        "vso",
+        "vsc"
     ],
-    "chrome.svg":[
-        "google-chrome2.svg",
-        "google-chrome-dev.svg",
-        "google-chrome.svg",
-        "google-chrome-beta.svg",
-        "googlechrome.svg",
-        "google-chrome-unstable.svg"
+    "firefox-dark":[
+        "firefox-3.0",
+        "firefox-3.5",
+        "firefox-4.0",
+        "firefox-beta-bin",
+        "firefox-bin",
+        "firefox-beta",
+        "firefox-default",
+        "firefox-esr",
+        "firefox-gtk3",
+        "firefox-icon"
+    ],
+    "discord":[
+        "discord-ptb",
+        "web-discord",
+        "com.discordapp.Discord"
+    ],
+    "spotify":[
+        "Spotify",
+        "spotify_A",
+        "spotify-client",
+        "spotify-linux-48x48",
+        "spotify-linux-512x512",
+        "spotify-web-player",
+        "spotify-client"
+        "spotifywebplayer"
+    ],
+    "google-chrome":[
+        "chrome",
+        "google-chrome2",
+        "google-chrome-dev",
+        "google-chrome-beta",
+        "googlechrome",
+        "google-chrome-unstable"
+    ],
+    "google-chromium": [
+        "chromium"
     ],
     "vlc":[
-        "org.videolan.VLC.svg",
-        "Vlc.svg"
+        "org.videolan.VLC",
+        "Vlc"
+    ],
+    "vim":[
+        "vim-qt",
+        "vimlogo"
+    ],
+    "file-manager": [
+        "dolphin",
+        "thunar",
+        "Thunar",
+        "thunar-filemanager",
+        "system-file-manager",
+        "spacefm",
+        "dde-file-manager",
+        "org.kde.dolphin"
+    ],
+    "skype": [
+        "Skype",
+        "skypeforlinux",
+        "skype_protocol"
+    ],
+    "spotify": [
+        "Spotify",
+        "com.spotify.Client"
+    ],
+    "lollypop": [
+        "org.gnome.Lollypop",
+        "Lollypop"
     ]
 }
 
+os.system("mkdir -f ./links")
+
 for key in icons:
     for link in icons[key]:
-        cmd = 'ln -s ./../scalable/'+key+' ./links/'+link
+        cmd = f"ln -f -s ./../scalable/{key}.svg ./links/{link}.svg"
         os.system(cmd)
 
 print('done ...')
