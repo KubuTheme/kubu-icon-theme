@@ -5,8 +5,8 @@
 Microsoft Office
 ![Microsoft Office](previews/ms-office.png)
 
-Jetbrains
-![Jetbrains](previews/jetbrains.png)
+Jetbrains software
+![Jetbrains](previews/jetbrains-previews.png)
 
-Adobe suite
-![Adobe suite](previews/adobe-suite.png)
+Adobe creative cloud
+![Adobe suite](previews/adobe-previews.png)
