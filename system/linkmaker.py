@@ -56,7 +56,8 @@ icons = {
         "xterm_48x48.svg",
         "xterm.svg",
         "xterminator.svg",
-        "x-terminal-emulator.svg"
+        "x-terminal-emulator.svg",
+        "hterm.svg"
     ],
     "system-monitor.svg":[
         "ksysguard.svg",
