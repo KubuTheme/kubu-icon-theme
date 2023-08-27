@@ -8,7 +8,12 @@ icons = {
         "intellij",
         "intellij-idea",
         "jetbrains-idea-ce",
-        "intellij-idea-community"
+        "intellij-idea-community",
+        "com.jetbrains.Community",
+        "com.jetbrains.IntelliJ-IDEA-Community",
+        "com.jetbrains.Intellij-IDEA-Community",
+        "com.jetbrains.IntelliJ-IDEA-Ultimate",
+        "com.jetbrains.Intellij-IDEA-Ultimate",
     ],
     "jetbrains-pycharm": [
         "pycharm",
@@ -39,7 +44,7 @@ icons = {
         "vso",
         "vsc"
     ],
-    "firefox-dark":[
+    "firefox":[
         "firefox-3.0",
         "firefox-3.5",
         "firefox-4.0",
@@ -49,7 +54,19 @@ icons = {
         "firefox-default",
         "firefox-esr",
         "firefox-gtk3",
-        "firefox-icon"
+        "firefox-icon",
+        "firefox3",
+        "firefox-mozilla-build",
+        "firefox-icon-unbranded",
+        "org.mozilla.Firefox",
+        "org.mozilla.firefox",
+        "mozilla-firefox"
+    ],
+    "brave": [
+        "brave-bin",
+        "brave-desktop",
+        "brave-browser",
+        "brave-browser-beta",
     ],
     "discord":[
         "discord-ptb",
@@ -83,17 +100,27 @@ icons = {
     ],
     "vim":[
         "vim-qt",
-        "vimlogo"
+        "vimlogo",
+        "gvim"
     ],
     "file-manager": [
         "dolphin",
         "thunar",
         "Thunar",
         "thunar-filemanager",
+        "user-file-manager",
         "system-file-manager",
+        "redhat-filemanager",
+        "xfce-filemanager",
         "spacefm",
         "dde-file-manager",
-        "org.kde.dolphin"
+        "org.kde.dolphin",
+        "org.gnome.files",
+        "org.gnome.Files",
+        "io.elementary.files",
+        "Insight-FileManager",
+        "file-system-manager",
+        "filerunner"
     ],
     "skype": [
         "Skype",
@@ -107,7 +134,12 @@ icons = {
     "lollypop": [
         "org.gnome.Lollypop",
         "Lollypop"
-    ]
+    ],
+    "davinci-resolve": [
+        "Davinci-Resolve",
+        "DaVinci-Resolve",
+        "com.blackmagicdesign.resolve",
+    ],
 }
 
 os.system("mkdir -f ./links")
