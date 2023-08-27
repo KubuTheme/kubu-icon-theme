@@ -129,7 +129,15 @@ icons = {
     ],
     "spotify": [
         "Spotify",
-        "com.spotify.Client"
+        "com.spotify.Client",
+        "spotify_A",
+        "spotifywebplayer",
+        "spotify-web-player",
+        "spotify-linux-512x512",
+        "spotify-linux-48x48",
+        "spotify-client",
+        "spotify-launcher",
+
     ],
     "lollypop": [
         "org.gnome.Lollypop",
