@@ -44,6 +44,10 @@ icons = {
         "vso",
         "vsc"
     ],
+    "thunderbird": [
+        "org.mozilla.Thunderbird",
+        "Thunderbird",
+    ],
     "firefox":[
         "firefox-3.0",
         "firefox-3.5",
