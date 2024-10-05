@@ -2,7 +2,7 @@
 Name=Kubu
 Comment=Kubu is a minimalist icon pack created by Matthijs Reyers.
 Inherits=McMojave-circle-blue-dark,breeze,Adwaita,hicolor
-Example=terminal
+Example=vs-code
 
 # KDE/Plasma Stuff
 DisplayDepth=32
@@ -25,7 +25,7 @@ FollowsColorScheme=true
 KDE-Extensions=.svg
 
 #Directory list
-Directories=apps/scalable,apps/links,system/scalable,system/links,actions/scalable
+Directories=apps/scalable,apps/links,games/scalable,games/links,system/scalable,system/links,actions/scalable
 
 [apps/scalable]
 Size=64
@@ -49,6 +49,20 @@ MaxSize=1024
 Type=Scalable
 
 [system/links]
+Size=64
+Context=Applications
+MinSize=16
+MaxSize=1024
+Type=Scalable
+
+[games/scalable]
+Size=64
+Context=Applications
+MinSize=16
+MaxSize=1024
+Type=Scalable
+
+[games/links]
 Size=64
 Context=Applications
 MinSize=16
