@@ -131,6 +131,9 @@ icons = {
         "skypeforlinux",
         "skype_protocol"
     ],
+    "slack": [
+        "com.slack.Slack"
+    ],
     "spotify": [
         "Spotify",
         "com.spotify.Client",
