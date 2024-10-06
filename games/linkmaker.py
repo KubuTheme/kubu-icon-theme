@@ -8,6 +8,15 @@ icons = {
         "minetest",
         "minetest-icon",
     ],
+    "among-us": [
+        "among-us",
+        "amongus"
+    ],
+    "mini-motorways": [
+        "mini-motorways",
+        "minimotorways",
+        "steam_icon_1127500",
+    ],
 }
 
 os.system("mkdir -f ./links")
