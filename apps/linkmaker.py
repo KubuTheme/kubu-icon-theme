@@ -155,6 +155,9 @@ icons = {
         "DaVinci-Resolve",
         "com.blackmagicdesign.resolve",
     ],
+    "easy-tag": [
+        "easytag",
+    ],
 }
 
 os.system("mkdir -f ./links")
