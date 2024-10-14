@@ -83,6 +83,8 @@ MinSize=16
 MaxSize=512
 Type=Scalable
 
+# Status icons (status bar etc).
+
 [status/16]
 Size=16
 Context=Status
@@ -96,4 +98,6 @@ Type=Fixed
 [status/24]
 Size=24
 Context=Status
-Type=Fixed
+MinSize=24
+MaxSize=1024
+Type=Scalable
