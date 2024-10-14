@@ -10,11 +10,6 @@ Kubu is an icon theme
 
 <h2 align="center">Previews<h2>
 
-Microsoft Office <br>
-![Microsoft Office](previews/ms-office-previews.png)
-
-Jetbrains software <br>
-![Jetbrains](previews/jetbrains-previews.png)
-
-Adobe creative cloud <br>
-![Adobe suite](previews/adobe-previews.png)
+| | |
+| :-: | :-: |
+| ![Google Chrome](./apps/scalable/google-chrome.svg) | |
