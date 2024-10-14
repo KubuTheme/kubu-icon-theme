@@ -24,6 +24,15 @@ icons = {
         "com.jetbrains.PyCharm-Professional",
         "com.jetbrains.PyCharm-Community"
     ],
+    "jetbrains-datagrip": [
+        "datagrip",
+        "datagrip-professional",
+        "datagrip-education",
+        "datagrip-community",
+        "com.jetbrains.DataGrip",
+        "com.jetbrains.DataGrip-Professional",
+        "com.jetbrains.DataGrip-Community"
+    ],
     "telegram":[
         "chrome-https___telegram.org_",
         "goa-account-telegram",
