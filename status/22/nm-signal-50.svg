@@ -1,1 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><path d="M18.58,9l-6.862,7.153a1,1,0,0,1-1.442,0L3.428,9.013a.627.627,0,0,1,.012-.886,10.936,10.936,0,0,1,15.124.008A.612.612,0,0,1,18.58,9Z" fill-rule="evenodd" opacity="0.35"/><path d="M14.3,13.458,11.72,16.153a1,1,0,0,1-1.443,0L7.692,13.458A.694.694,0,0,1,7.78,12.4a5.188,5.188,0,0,1,6.437,0A.712.712,0,0,1,14.3,13.458Z" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="nm-signal-50.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="38.409091"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g2"
+     style="fill:#ffffff"
+     transform="matrix(1.2902794,0,0,1.2902794,-3.0838063,-2.9064546)">
+    <path
+       d="m 18.58,9 -6.862,7.153 a 1,1 0 0 1 -1.442,0 L 3.428,9.013 A 0.627,0.627 0 0 1 3.44,8.127 10.936,10.936 0 0 1 18.564,8.135 0.612,0.612 0 0 1 18.58,9 Z"
+       fill-rule="evenodd"
+       opacity="0.35"
+       id="path1"
+       style="fill:#ffffff" />
+    <path
+       d="m 14.3,13.458 -2.58,2.695 a 1,1 0 0 1 -1.443,0 L 7.692,13.458 A 0.694,0.694 0 0 1 7.78,12.4 a 5.188,5.188 0 0 1 6.437,0 0.712,0.712 0 0 1 0.083,1.058 z"
+       fill-rule="evenodd"
+       id="path2"
+       style="fill:#ffffff" />
+  </g>
+</svg>

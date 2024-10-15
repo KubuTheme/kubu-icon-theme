@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="battery-90-charging.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#184120"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="22.61627"
+     inkscape:cx="11.208745"
+     inkscape:cy="9.7054023"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="rect3-1"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.504424;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.1;paint-order:markers stroke fill"
+     d="M 3.46875 6.25 C 3.2654102 6.25 3.0722503 6.2911383 2.8964844 6.3652344 C 2.8085737 6.4023102 2.7246009 6.4473009 2.6464844 6.5 C 2.4903206 6.6053288 2.3553288 6.7403206 2.25 6.8964844 C 2.1973009 6.9746009 2.1523102 7.0585737 2.1152344 7.1464844 C 2.0411383 7.3222503 2 7.5154102 2 7.71875 L 2 14.28125 C 2 14.48459 2.0411383 14.67775 2.1152344 14.853516 C 2.1523102 14.941426 2.1973009 15.025399 2.25 15.103516 C 2.3553288 15.259679 2.4903206 15.394671 2.6464844 15.5 C 2.7246009 15.552699 2.8085737 15.59769 2.8964844 15.634766 C 3.0722503 15.708862 3.2654102 15.75 3.46875 15.75 L 8.9472656 15.75 L 8.9472656 13.345703 L 8.0332031 13.345703 A 1.2586409 1.2586409 0 0 1 6.90625 11.523438 L 9.5429688 6.25 L 3.46875 6.25 z M 12.552734 6.25 L 12.552734 8.6542969 L 13.466797 8.6542969 A 1.2586409 1.2586409 0 0 1 14.59375 10.476562 L 11.957031 15.75 L 16.53125 15.75 C 17.344609 15.75 18 15.094609 18 14.28125 L 18 7.71875 C 18 6.9053909 17.344609 6.25 16.53125 6.25 L 12.552734 6.25 z " />
+  <path
+     id="rect5"
+     style="fill:#ffffff;stroke:none;stroke-width:2.20353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.1;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;fill-opacity:1"
+     d="m 10.951172,6.25 -2.917969,5.835938 h 2.173828 V 15.75 h 0.341797 L 13.466797,9.914062 H 11.292969 V 6.25 Z" />
+  <path
+     id="rect2-0-8"
+     style="fill:#ffffff;fill-opacity:0.34901962;stroke:none;stroke-width:0.697568;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.1;paint-order:markers stroke fill"
+     d="m 16.28125,6.25 v 9.5 h 1.75 C 18.844607,15.75 19.5,15.094607 19.5,14.28125 v -1.292969 h 0.833984 C 20.70323,12.988281 21,12.691509 21,12.322266 V 9.6777341 c 0,-0.369244 -0.29677,-0.666015 -0.666016,-0.666015 H 19.5 V 7.7187501 C 19.5,6.905393 18.844607,6.25 18.03125,6.25 Z" />
+</svg>

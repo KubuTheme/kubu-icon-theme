@@ -1,1 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><path d="M18.525,9.281l-6.8,7.1a1,1,0,0,1-1.442,0L3.48,9.288A.7.7,0,0,1,3.494,8.3a10.932,10.932,0,0,1,15.013,0A.687.687,0,0,1,18.525,9.281Z" fill-rule="evenodd" opacity="0.35"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="nm-signal-0.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="38.409091"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="m 20.744616,8.7709742 -8.80869,9.1973088 a 1.2953957,1.2953957 0 0 1 -1.867961,0 L 1.2553884,8.7800412 a 0.90677696,0.90677696 0 0 1 0.018136,-1.2798505 14.161265,14.161265 0 0 1 19.4477746,0 0.88993682,0.88993682 0 0 1 0.02332,1.2707835 z"
+     fill-rule="evenodd"
+     opacity="0.35"
+     id="path1"
+     style="fill:#ffffff;stroke-width:1.2954" />
+</svg>
