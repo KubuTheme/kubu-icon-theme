@@ -79,7 +79,20 @@
     "audio-volume-muted-blocking-symbolic.svg": [],
     "audio-volume-muted-symbolic.svg": [],
     "battery-040.svg": [],
-    "battery-full-charging.svg": [
+    "battery-0.svg": [
+        "battery-empty-symbolic.svg",
+        "gpm-battery-000.svg",
+        "gpm-primary-000.svg",
+        "gpm-ups-000.svg",
+        "xfpm-primary-000.svg",
+        "xfpm-ups-000.svg",
+        "battery-000.svg",
+        "gpm-battery-empty.svg",
+        "xfpm-battery-000.svg",
+        "xfpm-battery-empty.svg",
+        "battery-empty.svg"
+    ],
+    "battery-100-charging.svg": [
         "battery-ac-adapter-symbolic.svg",
         "battery-full-charging-symbolic.svg",
         "gpm-battery-100-charging.svg",
@@ -88,11 +101,56 @@
         "xfpm-battery-full-charging.svg",
         "xfpm-primary-100-charging.svg",
         "xfpm-ups-100-charging.svg",
-        "battery-100-charging.svg",
+        "battery-full-charging.svg",
         "xfpm-battery-100-charging.svg",
         "xfce4-battery-full-charging.svg"
     ],
-    "battery-caution-charging.svg": [
+    "battery-80-charging.svg": [
+        "battery-good-charging-symbolic.svg",
+        "gpm-battery-080-charging.svg",
+        "gpm-primary-080-charging.svg",
+        "gpm-ups-080-charging.svg",
+        "xfce4-battery-good-charging.svg",
+        "xfpm-battery-good-charging.svg",
+        "xfpm-primary-080-charging.svg",
+        "xfpm-ups-080-charging.svg",
+        "battery-080-charging.svg",
+        "xfpm-battery-080-charging.svg",
+        "battery-good-charging.svg"
+    ],
+    "battery-60-charging.svg": [
+        "battery-medium-charging.svg",
+        "gpm-primary-060-charging.svg",
+        "xfpm-ups-060-charging.svg",
+        "gpm-ups-060-charging.svg",
+        "battery-060-charging.svg",
+        "xfpm-battery-060-charging.svg",
+        "xfpm-battery-ok-charging.svg",
+        "xfce4-battery-ok-charging.svg",
+        "xfpm-primary-060-charging.svg"
+    ],
+    "battery-50-charging.svg": [
+        "gpm-primary-050-charging.svg",
+        "xfpm-ups-050-charging.svg",
+        "gpm-ups-050-charging.svg",
+        "battery-050-charging.svg",
+        "xfpm-battery-050-charging.svg",
+        "xfpm-primary-050-charging.svg"
+    ],
+    "battery-40-charging.svg": [
+        "battery-low-charging-symbolic.svg",
+        "gpm-battery-040-charging.svg",
+        "gpm-primary-040-charging.svg",
+        "gpm-ups-040-charging.svg",
+        "xfce4-battery-low-charging.svg",
+        "xfpm-battery-low-charging.svg",
+        "xfpm-primary-040-charging.svg",
+        "xfpm-ups-040-charging.svg",
+        "battery-040-charging.svg",
+        "xfpm-battery-040-charging.svg",
+        "battery-low-charging.svg"
+    ],
+    "battery-20-charging.svg": [
         "battery-caution-charging-symbolic.svg",
         "gpm-battery-020-charging.svg",
         "gpm-primary-020-charging.svg",
@@ -104,7 +162,19 @@
         "xfpm-primary-020-charging.svg",
         "xfpm-ups-020-charging.svg",
         "battery-020-charging.svg",
-        "xfpm-battery-020-charging.svg"
+        "xfpm-battery-020-charging.svg",
+        "battery-caution-charging.svg"
+    ],
+    "battery-0-charging.svg": [
+        "battery-empty-charging-symbolic.svg",
+        "gpm-battery-000-charging.svg",
+        "gpm-primary-000-charging.svg",
+        "gpm-ups-000-charging.svg",
+        "xfpm-primary-000-charging.svg",
+        "xfpm-ups-000-charging.svg",
+        "battery-000-charging.svg",
+        "xfpm-battery-000-charging.svg",
+        "battery-empty-charging.svg"
     ],
     "battery-caution.svg": [
         "battery-caution-symbolic.svg",
@@ -119,28 +189,6 @@
         "xfpm-ups-020.svg",
         "battery-020.svg",
         "xfpm-battery-020.svg"
-    ],
-    "battery-empty-charging.svg": [
-        "battery-empty-charging-symbolic.svg",
-        "gpm-battery-000-charging.svg",
-        "gpm-primary-000-charging.svg",
-        "gpm-ups-000-charging.svg",
-        "xfpm-primary-000-charging.svg",
-        "xfpm-ups-000-charging.svg",
-        "battery-000-charging.svg",
-        "xfpm-battery-000-charging.svg"
-    ],
-    "battery-empty.svg": [
-        "battery-empty-symbolic.svg",
-        "gpm-battery-000.svg",
-        "gpm-primary-000.svg",
-        "gpm-ups-000.svg",
-        "xfpm-primary-000.svg",
-        "xfpm-ups-000.svg",
-        "battery-000.svg",
-        "gpm-battery-empty.svg",
-        "xfpm-battery-000.svg",
-        "xfpm-battery-empty.svg"
     ],
     "battery-full.svg": [
         "battery-full-charged.svg",
@@ -170,28 +218,6 @@
         "battery_plugged.svg",
         "xfpm-ac-adapter.svg"
     ],
-    "battery-good-charging.svg": [
-        "battery-good-charging-symbolic.svg",
-        "battery-medium-charging.svg",
-        "gpm-battery-060-charging.svg",
-        "gpm-battery-080-charging.svg",
-        "gpm-primary-060-charging.svg",
-        "gpm-primary-080-charging.svg",
-        "gpm-ups-060-charging.svg",
-        "gpm-ups-080-charging.svg",
-        "xfce4-battery-good-charging.svg",
-        "xfce4-battery-ok-charging.svg",
-        "xfpm-battery-good-charging.svg",
-        "xfpm-battery-ok-charging.svg",
-        "xfpm-primary-060-charging.svg",
-        "xfpm-primary-080-charging.svg",
-        "xfpm-ups-060-charging.svg",
-        "xfpm-ups-080-charging.svg",
-        "battery-060-charging.svg",
-        "xfpm-battery-060-charging.svg",
-        "battery-080-charging.svg",
-        "xfpm-battery-080-charging.svg"
-    ],
     "battery-good.svg": [
         "battery-good-symbolic.svg",
         "battery-medium.svg",
@@ -213,18 +239,6 @@
         "xfpm-battery-060.svg",
         "battery-080.svg",
         "xfpm-battery-080.svg"
-    ],
-    "battery-low-charging.svg": [
-        "battery-low-charging-symbolic.svg",
-        "gpm-battery-040-charging.svg",
-        "gpm-primary-040-charging.svg",
-        "gpm-ups-040-charging.svg",
-        "xfce4-battery-low-charging.svg",
-        "xfpm-battery-low-charging.svg",
-        "xfpm-primary-040-charging.svg",
-        "xfpm-ups-040-charging.svg",
-        "battery-040-charging.svg",
-        "xfpm-battery-040-charging.svg"
     ],
     "battery-low.svg": [
         "battery-low-symbolic.svg",
