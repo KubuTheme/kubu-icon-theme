@@ -54,7 +54,8 @@ icons = {
         "datagrip-community",
         "com.jetbrains.DataGrip",
         "com.jetbrains.DataGrip-Professional",
-        "com.jetbrains.DataGrip-Community"
+        "com.jetbrains.DataGrip-Community",
+        "datagrip_datagrip", 
     ],
     "telegram":[
         "chrome-https___telegram.org_",
