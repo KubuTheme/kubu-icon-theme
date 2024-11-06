@@ -80,6 +80,9 @@ icons = {
         "org.mozilla.Thunderbird",
         "Thunderbird",
     ],
+    "jellyfin": [
+        "com.github.iwalton3.jellyfin-media-player",
+    ],
     "firefox":[
         "firefox-3.0",
         "firefox-3.5",
