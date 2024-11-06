@@ -20,6 +20,9 @@ icons = {
     "ms-office-teams": [
         "teams"
     ],
+    "musescore-4": [
+        "org.musescore.MuseScore",
+    ],
     "jetbrains-intellij":[
         "intellij",
         "intellij-idea",
