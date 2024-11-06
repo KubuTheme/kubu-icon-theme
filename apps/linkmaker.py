@@ -1,6 +1,22 @@
 import os
 
 icons = {
+    "minecraft": [
+        "Minecraft",
+        "minecraft-launcher",
+        "minecraft-pi",
+        "minetest",
+        "minetest-icon",
+    ],
+    "among-us": [
+        "among-us",
+        "amongus"
+    ],
+    "mini-motorways": [
+        "mini-motorways",
+        "minimotorways",
+        "steam_icon_1127500",
+    ],
     "ms-office-teams": [
         "teams"
     ],
