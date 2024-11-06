@@ -14,6 +14,13 @@ icons = {
         "com.jetbrains.Intellij-IDEA-Community",
         "com.jetbrains.IntelliJ-IDEA-Ultimate",
         "com.jetbrains.Intellij-IDEA-Ultimate",
+        "jetbrains-intellij-idea",
+        "idea",
+        "idea-ultimate"
+        "intellij-idea-ce",
+        "jetbrains-intellij-idea",
+        "intellij-idea-ultimate",
+        "intellij-idea-ultimate-edition",
     ],
     "jetbrains-pycharm": [
         "pycharm",
@@ -167,6 +174,9 @@ icons = {
     "easy-tag": [
         "easytag",
     ],
+    "adobe-photoshop-2020": [
+        "4473_photoshop.0",
+    ]
 }
 
 os.system("mkdir -f ./links")
