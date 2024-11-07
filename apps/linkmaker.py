@@ -22,6 +22,7 @@ icons = {
     ],
     "musescore-4": [
         "org.musescore.MuseScore",
+        "mscore"
     ],
     "jetbrains-intellij":[
         "intellij",
