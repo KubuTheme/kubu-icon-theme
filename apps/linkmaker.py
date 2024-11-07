@@ -18,7 +18,26 @@ icons = {
         "steam_icon_1127500",
     ],
     "ms-office-teams": [
-        "teams"
+        "teams",
+        "appimagekit-teams-for-linux",
+        "teams-for-linux",
+    ],
+    "ms-office-powerpoint": [
+        "ms-powerpoint",
+    ],
+    "ms-office-word": [
+        "ms-word",
+    ],
+    "ms-office-outlook": [
+        "ms-outlook",
+    ],
+    "ms-office-onenote": [
+        "web-onenote",
+        "io.gitlab.o20.onenote",
+        "ms-onenote",
+    ],
+    "ms-office-excel": [
+        "ms-excel",
     ],
     "musescore-4": [
         "org.musescore.MuseScore",
@@ -67,7 +86,8 @@ icons = {
         "org.telegram.desktop",
         "telegram-desktop",
         "unity-webapps-telegram",
-        "web-telegram"
+        "web-telegram",
+        "telegram-classic"
     ],
     "vs-code":[
         "visual-studio-code",
