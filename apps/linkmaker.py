@@ -10,7 +10,12 @@ icons = {
     ],
     "among-us": [
         "among-us",
-        "amongus"
+        "amongus",
+        "steam_icon_945360",
+    ],
+    "portal-2": [
+        "steam_icon_620",
+        "portal2",
     ],
     "mini-motorways": [
         "mini-motorways",
