@@ -17,6 +17,9 @@ icons = {
         "steam_icon_620",
         "portal2",
     ],
+    "steam": [
+        "com.valvesoftware.Steam"
+    ],
     "mini-motorways": [
         "mini-motorways",
         "minimotorways",
