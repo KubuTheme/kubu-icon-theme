@@ -98,6 +98,14 @@ icons = {
         "web-telegram",
         "telegram-classic"
     ],
+    "transmission": [
+        "org.equiem.Tremotesf",
+        "transmission-gtk",
+        "transmission-qt",
+        "transmission-remote-gtk",
+        "transmission-remote-qt",
+        "tTremotesf",
+    ],
     "vs-code":[
         "visual-studio-code",
         "com.visualstudio.code",
