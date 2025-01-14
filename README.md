@@ -24,7 +24,6 @@ Kubu is an icon theme
     <th><img src="./apps/scalable/telegram.svg" width="100"></th>
     <th><img src="./apps/scalable/whatsapp.svg" width="100"></th>
     <th><img src="./apps/scalable/discord.svg" width="100"></th>
-    <th><img src="./apps/scalable/filezilla.svg" width="100"></th>
   </tr>
   <tr>
     <th><img src="./apps/scalable/jetbrains-datagrip.svg"></th>
@@ -37,7 +36,6 @@ Kubu is an icon theme
     <th><img src="./apps/scalable/easy-tag.svg"></th>
     <th><img src="./apps/scalable/obsidian.svg"></th>
     <th><img src="./apps/scalable/davinci-resolve.svg"></th>
-    <th><img src="./apps/scalable/spotify.svg"></th>
   </tr>
   <tr>
     <th><img src="./apps/scalable/ms-office-word.svg"></th>
@@ -49,8 +47,7 @@ Kubu is an icon theme
     <th><img src="./apps/scalable/kicad.svg"></th>
     <th><img src="./apps/scalable/pcbnew.svg"></th>
     <th><img src="./apps/scalable/pcbcalculator.svg"></th>
-    <th><img src="./apps/scalable/PrusaSlicer-gcodeviewer.svg"></th>
-    <th><img src="./apps/scalable/PrusaSlicer.svg"></th>
+    <th><img src="./apps/scalable/spotify.svg"></th>
   </tr>
   <tr>
     <th><img src="./apps/scalable/adobe-illustrator-2020.svg"></th>
@@ -63,7 +60,6 @@ Kubu is an icon theme
     <th><img src="./apps/scalable/vlc.svg"></th>
     <th><img src="./apps/scalable/vlc-xmas.svg"></th>
     <th><img src="./apps/scalable/zotero.svg"></th>
-    <th><img src="./apps/scalable/brave.svg"></th>
   </tr>
   <tr>
     <th><img src="./apps/scalable/canary.svg"></th>
@@ -71,6 +67,10 @@ Kubu is an icon theme
     <th><img src="./apps/scalable/google-chromium.svg"></th>
     <th><img src="./apps/scalable/firefox.svg"></th>
     <th><img src="./apps/scalable/thunderbird.svg"></th>
+    <th><img src="./apps/scalable/brave.svg"></th>
+    <th><img src="./apps/scalable/filezilla.svg" width="100"></th>
+    <th><img src="./apps/scalable/PrusaSlicer-gcodeviewer.svg"></th>
+    <th><img src="./apps/scalable/PrusaSlicer.svg"></th>
   </tr>
 </table> 
 
@@ -88,7 +88,6 @@ Kubu is an icon theme
     <th><img src="./apps/scalable/" width="100"></th>
     <th><img src="./apps/scalable/" width="100"></th>
     <th><img src="./apps/scalable/" width="100"></th>
-    <th><img src="./apps/scalable/" width="100"></th>
   </tr>
 </table> 
 
@@ -101,7 +100,6 @@ Kubu is an icon theme
     <th><img src="./system/scalable/system-monitor.svg" width="100"></th>
     <th><img src="./system/scalable/terminal.svg" width="100"></th>
     <th><img src="./apps/scalable/ghostty.svg" width="100"></th>
-    <th><img src="./apps/scalable/" width="100"></th>
     <th><img src="./apps/scalable/" width="100"></th>
     <th><img src="./apps/scalable/" width="100"></th>
     <th><img src="./apps/scalable/" width="100"></th>
