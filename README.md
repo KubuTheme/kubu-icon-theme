@@ -84,7 +84,7 @@ Kubu is an icon theme
     <th><img src="./apps/scalable/portal.svg" width="100"></th>
     <th><img src="./apps/scalable/portal-2.svg" width="100"></th>
     <th><img src="./apps/scalable/among-us.svg" width="100"></th>
-    <th><img src="./apps/scalable/" width="100"></th>
+    <th><img src="./apps/scalable/counter-strike.svg" width="100"></th>
     <th><img src="./apps/scalable/" width="100"></th>
     <th><img src="./apps/scalable/" width="100"></th>
     <th><img src="./apps/scalable/" width="100"></th>
