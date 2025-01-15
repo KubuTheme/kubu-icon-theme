@@ -237,7 +237,11 @@ icons = {
     ],
     "adobe-photoshop-2020": [
         "4473_photoshop.0",
-    ]
+    ],
+    "app-image-launcher": [
+        "appimagelauncher",
+        "AppImageLauncher",
+    ],
 }
 
 os.system("mkdir -f ./links")
