@@ -71,6 +71,7 @@ Kubu is an icon theme
     <th><img src="./apps/scalable/filezilla.svg" width="100"></th>
     <th><img src="./apps/scalable/PrusaSlicer-gcodeviewer.svg"></th>
     <th><img src="./apps/scalable/PrusaSlicer.svg"></th>
+    <th><img src="./apps/scalable/app-image-launcher.svg"></th>
   </tr>
 </table> 
 
