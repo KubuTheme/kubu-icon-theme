@@ -152,7 +152,13 @@ icons = {
     "discord":[
         "discord-ptb",
         "web-discord",
-        "com.discordapp.Discord"
+        "com.discordapp.Discord",
+        "com.discordapp.DiscordPTB",
+        "de.shorsh.discord-screenaudio",
+        "discord-development",
+        "discord-ptb",
+        "discord-bin",
+        ""
     ],
     "spotify":[
         "Spotify",
@@ -178,6 +184,14 @@ icons = {
     "vlc":[
         "org.videolan.VLC",
         "Vlc"
+    ],
+    "whatsapp": [
+        "com.gigitux.youp",
+        "com.gigitux.gtkwhats",
+        "com.github.WhatsApp-For-Linux",
+        "com.github.eneshecan.WhatsAppForLinux",
+        "com.rtosta.zapzap",
+        ""
     ],
     "vim":[
         "vim-qt",
@@ -235,6 +249,9 @@ icons = {
     "easy-tag": [
         "easytag",
     ],
+    "obsidian": [
+        "Obsidian"
+    ],
     "adobe-photoshop-2020": [
         "4473_photoshop.0",
     ],
@@ -249,6 +266,16 @@ os.system("mkdir -f ./links")
 for key in icons:
     for link in icons[key]:
         cmd = f"ln -f -s ./../scalable/{key}.svg ./links/{link}.svg"
+        os.system(cmd)
+
+libreoffice_apps = ['base', 'calc', 'draw', 'impress', 'math', 'oasis-web', 'template', 'writer']
+versions = [ '3', '4.2', '5.0', '5.1', '5.3', '5.4', '6.0', '6.2', '6.4', '7.0', '7.2', '34', '7.4', '7.5', '7.6', 'dev6.1', 'dev6.0' ]
+
+for app in libreoffice_apps:
+    for version in versions:
+        origin = f'libreoffice-{app}'
+        dest = f'libreoffice{version}-{app}'
+        cmd = f"ln -f -s ./../scalable/{origin}.svg ./links/{dest}.svg"
         os.system(cmd)
 
 print('done ...')

@@ -73,6 +73,14 @@ Kubu is an icon theme
     <th><img src="./apps/scalable/PrusaSlicer.svg"></th>
     <th><img src="./apps/scalable/app-image-launcher.svg"></th>
   </tr>
+  <tr>
+    <th><img src="./apps/scalable/libreoffice-base.svg"></th>
+    <th><img src="./apps/scalable/libreoffice-writer.svg"></th>
+    <th><img src="./apps/scalable/libreoffice-calc.svg"></th>
+    <th><img src="./apps/scalable/libreoffice-draw.svg"></th>
+    <th><img src="./apps/scalable/libreoffice-impress.svg"></th>
+    <th><img src="./apps/scalable/libreoffice-math.svg"></th>
+  </tr>
 </table> 
 
 ### Games
