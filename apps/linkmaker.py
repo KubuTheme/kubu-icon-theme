@@ -263,6 +263,10 @@ icons = {
         "appimagelauncher",
         "AppImageLauncher",
     ],
+    "rpi-imager": [
+        "raspberrypi-imager",
+        "org.raspberrypi.rpi-imager",
+    ],
 }
 
 os.system("mkdir -f ./links")
