@@ -193,6 +193,10 @@ icons = {
         "com.rtosta.zapzap",
         ""
     ],
+    "fspy": [
+        "appimagekit-fspy",
+        "62121369-112df900-b289-11e9-8105-bbeec105c8a1",
+    ],
     "vim":[
         "vim-qt",
         "vimlogo",
