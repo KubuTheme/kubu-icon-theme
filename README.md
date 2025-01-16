@@ -80,6 +80,7 @@ Kubu is an icon theme
     <th><img src="./apps/scalable/libreoffice-draw.svg"></th>
     <th><img src="./apps/scalable/libreoffice-impress.svg"></th>
     <th><img src="./apps/scalable/libreoffice-math.svg"></th>
+    <th><img src="./apps/scalable/rpi-imager.svg"></th>
   </tr>
 </table> 
 
