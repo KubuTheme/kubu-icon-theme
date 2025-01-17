@@ -267,6 +267,10 @@ icons = {
         "raspberrypi-imager",
         "org.raspberrypi.rpi-imager",
     ],
+    "postman": [
+        "Postman",
+        "com.getpostman.Postman",
+    ],
 }
 
 os.system("mkdir -f ./links")
