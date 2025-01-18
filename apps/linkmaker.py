@@ -271,6 +271,11 @@ icons = {
         "Postman",
         "com.getpostman.Postman",
     ],
+    "inkscape": [
+        "org.inkscape.Inkscape",
+        "inkscape.viewer",
+        "inkscape-logo",
+    ],
 }
 
 os.system("mkdir -f ./links")
