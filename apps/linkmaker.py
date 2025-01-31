@@ -277,6 +277,9 @@ icons = {
         "inkscape.viewer",
         "inkscape-logo",
     ],
+    "renderdoc": [
+        "Renderdoc",
+    ],
 }
 
 os.system("mkdir -f ./links")
