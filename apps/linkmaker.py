@@ -281,6 +281,10 @@ icons = {
     "renderdoc": [
         "Renderdoc",
     ],
+    "android-studio": [
+        "androidstudio",
+        "android-studio-beta",
+    ],
 }
 
 os.system("mkdir -f ./links")

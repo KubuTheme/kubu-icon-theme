@@ -83,6 +83,7 @@ Kubu is an icon theme
     <th><img src="./apps/scalable/postman.svg"></th>
     <th><img src="./apps/scalable/rpi-imager.svg"></th>
     <th><img src="./apps/scalable/renderdoc.svg"></th>
+    <th><img src="./apps/scalable/android-studio.svg"></th>
   </tr>
 </table> 
 
