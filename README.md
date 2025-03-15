@@ -62,7 +62,7 @@ Kubu is an icon theme
     <th><img src="./apps/scalable/zotero.svg"></th>
   </tr>
   <tr>
-    <th><img src="./apps/scalable/canary.svg"></th>
+    <th><img src="./apps/scalable/google-chrome-canary.svg"></th>
     <th><img src="./apps/scalable/google-chrome.svg"></th>
     <th><img src="./apps/scalable/google-chromium.svg"></th>
     <th><img src="./apps/scalable/firefox.svg"></th>
