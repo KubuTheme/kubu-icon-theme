@@ -197,6 +197,7 @@ icons = {
         "appimagekit-fspy",
         "62121369-112df900-b289-11e9-8105-bbeec105c8a1",
         "appimagekit_464d350626db9e9aed3bbe4986f9e2d2-fSpy",
+        "appimagekit_464d350626db9e9aed3bbe4986f9e2d2-fspy",
     ],
     "vim":[
         "vim-qt",
