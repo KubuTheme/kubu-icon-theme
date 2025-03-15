@@ -178,8 +178,8 @@ icons = {
         "googlechrome",
         "google-chrome-unstable"
     ],
-    "google-chromium": [
-        "chromium"
+    "chromium": [
+        "google-chromium"
     ],
     "vlc":[
         "org.videolan.VLC",
