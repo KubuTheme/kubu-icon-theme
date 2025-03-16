@@ -252,6 +252,9 @@ icons = {
         "DaVinci-Resolve",
         "com.blackmagicdesign.resolve",
     ],
+    "davinci-resolve-uninstaller": [
+        "DV_Uninstall"
+    ],
     "easy-tag": [
         "easytag",
     ],
