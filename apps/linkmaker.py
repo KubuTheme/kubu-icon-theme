@@ -185,6 +185,9 @@ icons = {
         "org.videolan.VLC",
         "Vlc"
     ],
+    "mysql-workbench": [
+        "mysqlworkbench"
+    ],
     "whatsapp": [
         "com.gigitux.youp",
         "com.gigitux.gtkwhats",
