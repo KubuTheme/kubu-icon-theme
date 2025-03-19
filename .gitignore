@@ -1,1 +1,3 @@
 **/links/**.svg
+dist/
+__pycache__/
