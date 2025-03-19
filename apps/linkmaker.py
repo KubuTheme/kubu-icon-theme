@@ -143,6 +143,16 @@ icons = {
         "org.mozilla.firefox",
         "mozilla-firefox"
     ],
+    "firefox-developer-edition": [
+        "firefox-developer",
+        "firefox-aurora",
+        "firefox-aurora-icon",
+        "firefox-developer-edition",
+        "firefox-developer-icon",
+        "firefox-nightly",
+        "firefox-nightly-icon",
+        "firefox-trunk",
+    ],
     "brave": [
         "brave-bin",
         "brave-desktop",
