@@ -217,6 +217,9 @@ icons = {
         "vimlogo",
         "gvim"
     ],
+    "godot:": [
+        "lutris_godot-engine",
+    ],
     "file-manager": [
         "dolphin",
         "thunar",
