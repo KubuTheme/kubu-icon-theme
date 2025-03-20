@@ -270,6 +270,12 @@ links = {
         "com.blackmagicdesign.resolve-Panels",
         "resolve-Panels",
     ],
+    "black-magic-raw-player": [
+        "blackmagicraw-player",
+        "blackmagicraw-player_48x48_apps",
+        "blackmagicraw-player_256x256_apps",
+        "BlackmagicRAWPlayer",
+    ],
     "easy-tag": [
         "easytag",
     ],
