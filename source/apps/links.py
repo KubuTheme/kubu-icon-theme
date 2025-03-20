@@ -275,6 +275,13 @@ links = {
         "blackmagicraw-player_48x48_apps",
         "blackmagicraw-player_256x256_apps",
         "BlackmagicRAWPlayer",
+        "com.blackmagicdesign.rawplayer",
+    ],
+    "black-magic-raw-speed-test": [
+        "blackmagicraw-speedtest_48x48_apps",
+        "blackmagicraw-speedtest_256x256_apps",
+        "com.blackmagicdesign.rawspeedtest",
+        "blackmagicraw-speedtest"
     ],
     "easy-tag": [
         "easytag",
