@@ -57,6 +57,8 @@ python ./build.py --dark-mode
     <th><img src="./source/apps/scalable/chromium-dark.svg"></th>
     <th><img src="./source/apps/scalable/firefox-dark.svg"></th>
     <th><img src="./source/apps/scalable/firefox-developer-edition-dark.svg"></th>
+    <th><img src="./source/apps/scalable/thunderbird-dark.svg"></th>
+    <th><img src="./source/apps/scalable/blender-dark.svg"></th>
   </tr>
   <tr>
     <th><img src="./source/apps/scalable/jetbrains-datagrip.svg"></th>
