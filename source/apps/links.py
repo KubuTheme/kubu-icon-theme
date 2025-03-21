@@ -106,6 +106,12 @@ links = {
         "transmission-remote-qt",
         "tTremotesf",
     ],
+    "blender": [
+        "Blender",
+        "steam_icon_365670",
+        "org.blender.Blender",
+        "lutris_blender",
+    ],
     "vs-code":[
         "visual-studio-code",
         "com.visualstudio.code",
