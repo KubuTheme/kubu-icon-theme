@@ -16,7 +16,11 @@ links = {
         "portal2",
     ],
     "steam": [
-        "com.valvesoftware.Steam"
+        "com.valvesoftware.Steam",
+        "steam-icon",
+        "steam-launcher",
+        "steampowered",
+        "10B4_steam.0",
     ],
     "mini-motorways": [
         "minimotorways",
