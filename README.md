@@ -47,9 +47,9 @@ python ./build.py --dark-mode
     <th><img src="./source/apps/scalable/firefox-developer-edition.svg"></th>
     <th><img src="./source/apps/scalable/thunderbird.svg"></th>
     <th><img src="./source/apps/scalable/blender.svg"></th>
-    <th><img src="./source/apps/scalable/filezilla.svg" width="100"></th>
-    <th><img src="./source/apps/scalable/PrusaSlicer-gcodeviewer.svg"></th>
-    <th><img src="./source/apps/scalable/PrusaSlicer.svg"></th>
+    <th><img src="./source/apps/scalable/brave.svg"></th>
+    <th><img src="./source/apps/scalable/brave-dev.svg"></th>
+
   </tr>
     <tr>
     <th><img src="./source/apps/scalable/google-chrome-canary-dark.svg"></th>
@@ -59,6 +59,8 @@ python ./build.py --dark-mode
     <th><img src="./source/apps/scalable/firefox-developer-edition-dark.svg"></th>
     <th><img src="./source/apps/scalable/thunderbird-dark.svg"></th>
     <th><img src="./source/apps/scalable/blender-dark.svg"></th>
+    <th><img src="./source/apps/scalable/brave-dark.svg"></th>
+    <th><img src="./source/apps/scalable/brave-dev-dark.svg"></th>
   </tr>
   <tr>
     <th><img src="./source/apps/scalable/jetbrains-datagrip.svg"></th>
@@ -112,7 +114,9 @@ python ./build.py --dark-mode
     <th><img src="./source/apps/scalable/godot.svg"></th>
     <th><img src="./source/apps/scalable/fspy.svg"></th>
     <th><img src="./source/apps/scalable/app-image-launcher.svg"></th>
-    <th><img src="./source/apps/scalable/brave.svg"></th>
+        <th><img src="./source/apps/scalable/PrusaSlicer-gcodeviewer.svg"></th>
+    <th><img src="./source/apps/scalable/PrusaSlicer.svg"></th>
+    <th><img src="./source/apps/scalable/filezilla.svg" width="100"></th>
   </tr>
 </table> 
 
