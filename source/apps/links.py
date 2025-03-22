@@ -7,6 +7,11 @@ links = {
         "minetest",
         "minetest-icon",
     ],
+    "sims-4": [
+        "the-sims-4",
+        "steam_icon_1222670",   # The Sims 4
+        "steam_icon_47890",     # The Sims 3
+    ],
     "among-us": [
         "amongus",
         "steam_icon_945360",

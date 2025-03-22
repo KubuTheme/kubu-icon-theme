@@ -129,7 +129,7 @@ python ./build.py --dark-mode
     <th><img src="./source/apps/scalable/portal.svg" width="100"></th>
     <th><img src="./source/apps/scalable/portal-2.svg" width="100"></th>
     <th><img src="./source/apps/scalable/among-us.svg" width="100"></th>
-    <th><img src="./source/apps/scalable/counter-strike.svg" width="100"></th>
+    <th><img src="./source/apps/scalable/sims-4.svg" width="100"></th>
     <th><img src="./source/apps/scalable/stardew-valley.svg" width="100"></th>
     <th><img src="./source/apps/scalable/dota2.svg" width="100"></th>
     <th><img src="./source/apps/scalable/dota-underlords.svg" width="100"></th>
