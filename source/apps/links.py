@@ -331,6 +331,11 @@ links = {
         "androidstudio",
         "android-studio-beta",
     ],
+    "vivado": [
+        "vivado_logo",
+        "Vivado",
+        "Vivado 2025.1",
+    ],
 }
 
 libreoffice_apps = ['base', 'calc', 'draw', 'impress', 'math', 'oasis-web', 'template', 'writer']

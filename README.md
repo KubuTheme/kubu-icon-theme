@@ -117,6 +117,7 @@ python ./build.py --dark-mode
         <th><img src="./source/apps/scalable/PrusaSlicer-gcodeviewer.svg"></th>
     <th><img src="./source/apps/scalable/PrusaSlicer.svg"></th>
     <th><img src="./source/apps/scalable/filezilla.svg" width="100"></th>
+    <th><img src="./source/apps/scalable/vivado.svg" width="100"></th>
   </tr>
 </table> 
 
