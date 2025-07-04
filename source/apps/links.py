@@ -12,6 +12,11 @@ links = {
         "steam_icon_1222670",   # The Sims 4
         "steam_icon_47890",     # The Sims 3
     ],
+    "peak": [
+       "peak.exe",
+       "peak-game",
+       "steam_icon_3527290"
+    ],
     "among-us": [
         "amongus",
         "steam_icon_945360",
@@ -306,6 +311,10 @@ links = {
     ],
     "adobe-photoshop-2020": [
         "4473_photoshop.0",
+    ],
+    "adobe-illustrator-2020": [
+        "627E_illustrator.0",
+        "illustrator",
     ],
     "app-image-launcher": [
         "appimagelauncher",

@@ -118,15 +118,16 @@ python ./build.py --dark-mode
     <th><img src="./source/apps/scalable/PrusaSlicer.svg"></th>
     <th><img src="./source/apps/scalable/filezilla.svg" width="100"></th>
     <th><img src="./source/apps/scalable/vivado.svg" width="100"></th>
+    <th><img src="./source/apps/scalable/steam.svg" width="100"></th>
   </tr>
 </table> 
 
 <h3 align="center">Games</h3>
 <table>
   <tr>
-    <th><img src="./source/apps/scalable/steam.svg" width="100"></th>
     <th><img src="./source/apps/scalable/minecraft.svg" width="100"></th>
     <th><img src="./source/apps/scalable/mini-motorways.svg" width="100"></th>
+    <th><img src="./source/apps/scalable/peak.svg" width="100"></th>
     <th><img src="./source/apps/scalable/portal.svg" width="100"></th>
     <th><img src="./source/apps/scalable/portal-2.svg" width="100"></th>
     <th><img src="./source/apps/scalable/among-us.svg" width="100"></th>
