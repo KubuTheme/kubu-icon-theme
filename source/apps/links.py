@@ -21,6 +21,9 @@ links = {
         "amongus",
         "steam_icon_945360",
     ],
+    "stardew-valley": [
+        "steam_icon_413150",
+    ],
     "portal-2": [
         "steam_icon_620",
         "portal2",
