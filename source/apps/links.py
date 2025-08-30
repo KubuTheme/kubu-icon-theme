@@ -12,6 +12,9 @@ links = {
         "steam_icon_1222670",   # The Sims 4
         "steam_icon_47890",     # The Sims 3
     ],
+    "signal": [
+        "signal-desktop",
+    ],
     "peak": [
        "peak.exe",
        "peak-game",
