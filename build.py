@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import os, sys, shutil, os.path as path
 import importlib.util
 
