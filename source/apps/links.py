@@ -262,6 +262,10 @@ links = {
     "slack": [
         "com.slack.Slack"
     ],
+    "freecad": [
+        "org.freecad.FreeCAD",
+        "FreeCAD",
+    ],
     "spotify": [
         "Spotify",
         "com.spotify.Client",
