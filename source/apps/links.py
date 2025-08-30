@@ -15,6 +15,10 @@ links = {
     "signal": [
         "signal-desktop",
     ],
+    "eduvpn": [
+        "org.eduvpn.client",
+        "eduvpn-client",
+    ],
     "peak": [
        "peak.exe",
        "peak-game",
