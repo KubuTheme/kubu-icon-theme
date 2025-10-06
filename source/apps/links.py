@@ -19,6 +19,10 @@ links = {
         "org.eduvpn.client",
         "eduvpn-client",
     ],
+    "joulescope": [
+        "joulescope_ui",
+        "Joulescope"
+    ],
     "peak": [
        "peak.exe",
        "peak-game",
