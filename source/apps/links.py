@@ -363,6 +363,11 @@ links = {
         "Vivado",
         "Vivado 2025.1",
     ],
+    "bambu-lab-studio": [
+        "Bambu_Studio_ubuntu-24.04_PR-8184",
+        "bambu-lab",
+        "bambulab",
+    ],
 }
 
 libreoffice_apps = ['base', 'calc', 'draw', 'impress', 'math', 'oasis-web', 'template', 'writer']
