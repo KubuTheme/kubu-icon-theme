@@ -353,6 +353,7 @@ links = {
     ],
     "renderdoc": [
         "Renderdoc",
+        "qrenderdoc",
     ],
     "android-studio": [
         "androidstudio",
