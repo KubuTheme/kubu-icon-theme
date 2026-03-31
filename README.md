@@ -153,3 +153,19 @@ python ./build.py --dark-mode
     <th><img src="./source/apps/scalable/" width="100"></th>
   </tr>
 </table> 
+
+<h3 align="center">Files and folders</h3>
+<table>
+  <tr>
+    <th><img src="./source/places/scalable/folder-blue.svg" width="100"></th>
+    <th><img src="./source/places/scalable/folder-cyan.svg" width="100"></th>
+    <th><img src="./source/places/scalable/folder-green.svg" width="100"></th>
+    <th><img src="./source/places/scalable/folder-yellow.svg" width="100"></th>
+    <th><img src="./source/places/scalable/folder-red.svg" width="100"></th>
+    <th><img src="./source/places/scalable/folder-magenta.svg" width="100"></th>
+    <th><img src="./source/places/scalable/folder-grey.svg" width="100"></th>
+    <th><img src="./source/places/scalable/file.svg" width="100"></th>
+    <th><img src="./source/places/scalable/" width="100"></th>
+    <th><img src="./source/places/scalable/" width="100"></th>
+  </tr>
+</table> 
