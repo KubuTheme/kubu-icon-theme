@@ -11,7 +11,7 @@ SYSTEM_INSTALL = '/usr/share/icons/'
 
 THEME_NAME = 'kubu'
 
-IGNORE_FOLDERS = ['templates', 'source', '__pycache__']
+IGNORE_FOLDERS = ['templates', '__pycache__']
 
 COPY_ROOT_FILES = ['AUTHORS', 'COPYING', 'index.theme']
 
@@ -51,7 +51,7 @@ def build_theme(dark_mode: bool):
 
             # Iterate over different sizes.
             for size in os.listdir(f'{SRC_DIR}/{section}'):
-                if path.isdir(f'{SRC_DIR}/{section}/{size}') and not size in IGNORE_FOLDERS:
+                if path.isdir(f'{SRC_DIR}/{section}/{size}') and not size in IGNORE_FOLDERS and not size.endswith('_source'):
                     
                     os.mkdir(f'{DIST_DIR}/{section}/{size}')
                     
