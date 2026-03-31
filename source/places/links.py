@@ -17,6 +17,13 @@ links = {
 
     ],
     "desktop": [
+        "folder-desktop",
+        "gnome-ccdesktop",
+        "gnome-desktop-config",
+        "gnome-fs-desktop",
+        "other-desktop",
+        "user-desktop",
+        "xfce-desktop",
     ],
     "refresh": [
         "document-open-recent",
@@ -54,6 +61,6 @@ links = {
         "inode-directory",
         "gtk-directory",
         "stock_folder",
-        
+
     ],
 }
