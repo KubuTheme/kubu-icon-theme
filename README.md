@@ -164,8 +164,8 @@ python ./build.py --dark-mode
     <th><img src="./source/places/scalable/folder-red.svg" width="100"></th>
     <th><img src="./source/places/scalable/folder-magenta.svg" width="100"></th>
     <th><img src="./source/places/scalable/folder-grey.svg" width="100"></th>
-    <th><img src="./source/places/scalable/file.svg" width="100"></th>
-    <th><img src="./source/places/scalable/" width="100"></th>
-    <th><img src="./source/places/scalable/" width="100"></th>
+    <th><img src="./source/mimetypes/scalable/file.svg" width="100"></th>
+    <th><img src="./source/mimetypes/scalable/file-txt.svg" width="100"></th>
+    <th><img src="./source/mimetypes/scalable/file-markdown.svg" width="100"></th>
   </tr>
 </table> 

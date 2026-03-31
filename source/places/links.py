@@ -20,7 +20,6 @@ links = {
     ],
     "search": [
         "application-x-gnome-saved-search",
-
     ],
     "bookmark-missing": [
 
