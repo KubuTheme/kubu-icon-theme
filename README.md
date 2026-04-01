@@ -169,6 +169,7 @@ python ./build.py --dark-mode
     <th><img src="./source/mimetypes/scalable/file-markdown.svg" width="100"></th>
   </tr>
   <tr>
+    <th><img src="./source/mimetypes/scalable/file-html.svg" width="100"></th>
     <th><img src="./source/mimetypes/scalable/file-py.svg" width="100"></th>
     <th><img src="./source/mimetypes/scalable/file-svg.svg" width="100"></th>
     <th><img src="./source/mimetypes/scalable/file-adobe-illustrator.svg" width="100"></th>
