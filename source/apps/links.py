@@ -246,6 +246,9 @@ links = {
     "godot:": [
         "lutris_godot-engine",
     ],
+    "ghostty": [
+        "com.mitchellh.ghostty"
+    ],
     "file-manager": [
         "dolphin",
         "thunar",
