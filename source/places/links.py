@@ -72,6 +72,5 @@ links = {
         "inode-directory",
         "gtk-directory",
         "stock_folder",
-
     ],
 }

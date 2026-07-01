@@ -78,7 +78,10 @@ def build_theme(dark_mode: bool):
                         icon_name = dest_icon.replace('.svg', '');
                         if icon_name in links:
                             for link in links[icon_name]:
-                                os.symlink(f'{dest_icon}',f'{DIST_DIR}/{section}/{size}/{link}.svg')
+                                try:
+                                    os.symlink(f'{dest_icon}',f'{DIST_DIR}/{section}/{size}/{link}.svg')
+                                except FileExistsError as e:
+                                    print(e)
 
 
 def install_user():
