@@ -28,6 +28,10 @@ links = {
        "peak-game",
        "steam_icon_3527290"
     ],
+    "protonvpn": [
+        "protonvpn-app",
+        "protonvpn-app-logo",
+    ],
     "among-us": [
         "amongus",
         "steam_icon_945360",
