@@ -222,6 +222,11 @@ links = {
     "chromium": [
         "google-chromium"
     ],
+    "claude-code": [
+        "claude",
+        "claude-desktop-bin",
+        "claude-desktop",
+    ],
     "vlc":[
         "org.videolan.VLC",
         "Vlc"
