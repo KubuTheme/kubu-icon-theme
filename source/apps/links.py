@@ -241,6 +241,27 @@ links = {
         "com.github.eneshecan.WhatsAppForLinux",
         "com.rtosta.zapzap",
     ],
+    "wps-writer": [
+        "wps-office-wps",
+        "wps-office-wps-icon",
+        "wps-office2019-wpsmain"
+    ],
+    "wps-spreadsheets": [
+        "wps-office-et",
+        "wps-office-et-icon",
+        "wps-office2019-etmain"
+    ],
+    "wps-present": [
+        "wps-presentation",
+        "wps-office-wpp",
+        "wps-office-wpp-icon",
+        "wps-office2019-wppmain",
+    ],
+    "wps-pdf": [
+        "wps-office-pdf",
+        "wps-office-pdf-icon",
+        "wps-office2019-pdfmain"
+    ],
     "fspy": [
         "appimagekit-fspy",
         "62121369-112df900-b289-11e9-8105-bbeec105c8a1",
