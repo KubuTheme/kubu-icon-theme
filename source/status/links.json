@@ -702,9 +702,15 @@
     "state-warning.svg": [],
     "system-devices-panel.svg": ["system-shutdown-symbolic.svg"],
     "system-search-symbolic.svg": [],
-    "telegram-attention-panel.svg": [],
-    "telegram-mute-panel.svg": [],
-    "telegram-panel.svg": [],
+    "telegram": [
+        "telegram-attention-panel.svg",
+        "telegram-mute-panel.svg",
+        "telegram-panel.svg",
+        "org.telegram.desktop-symbolic.svg",
+        "org.telegram.desktop-mute-symbolic.svg",
+        "org.telegram.desktop-attention-symbolic.svg",
+        "org.telegram.desktop.png"
+    ],
     "uget-tray-default.svg": [],
     "uget-tray-downloading.svg": [],
     "uget-tray-error.svg": [],
