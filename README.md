@@ -51,7 +51,7 @@ python ./build.py --dark-mode
     <th><img src="./source/apps/scalable/brave-dev.svg"></th>
 
   </tr>
-    <tr>
+  <tr>
     <th><img src="./source/apps/scalable/google-chrome-canary-dark.svg"></th>
     <th><img src="./source/apps/scalable/google-chrome-dark.svg"></th>
     <th><img src="./source/apps/scalable/chromium-dark.svg"></th>
@@ -72,7 +72,7 @@ python ./build.py --dark-mode
     <th><img src="./source/apps/scalable/bitwarden.svg"></th>
     <th><img src="./source/apps/scalable/easy-tag.svg"></th>
     <th><img src="./source/apps/scalable/obsidian.svg"></th>
-    <th><img src="./source/apps/scalable/davinci-resolve.svg"></th>
+    <th><img src="./source/apps/scalable/bambu-lab-studio.svg"></th>
   </tr>
   <tr>
     <th><img src="./source/apps/scalable/ms-office-word.svg"></th>
@@ -102,19 +102,32 @@ python ./build.py --dark-mode
     <th><img src="./source/apps/scalable/libreoffice-base.svg"></th>
     <th><img src="./source/apps/scalable/libreoffice-writer.svg"></th>
     <th><img src="./source/apps/scalable/libreoffice-calc.svg"></th>
-    <th><img src="./source/apps/scalable/libreoffice-draw.svg"></th>
     <th><img src="./source/apps/scalable/libreoffice-impress.svg"></th>
+    <th><img src="./source/apps/scalable/libreoffice-draw.svg"></th>
     <th><img src="./source/apps/scalable/libreoffice-math.svg"></th>
     <th><img src="./source/apps/scalable/postman.svg"></th>
     <th><img src="./source/apps/scalable/rpi-imager.svg"></th>
     <th><img src="./source/apps/scalable/renderdoc.svg"></th>
     <th><img src="./source/apps/scalable/android-studio.svg"></th>
   </tr>
+  <tr>
+    <th><img src="./source/apps/scalable/claude-code.svg"></th>
+    <th><img src="./source/apps/scalable/wps-writer.svg"></th>
+    <th><img src="./source/apps/scalable/wps-spreadsheets.svg"></th>
+    <th><img src="./source/apps/scalable/wps-present.svg"></th>
+    <th><img src="./source/apps/scalable/wps-pdf.svg"></th>
+    <th><img src="./source/apps/scalable/proton-vpn.svg"></th>
+    <th><img src="./source/apps/scalable/eduvpn.svg"></th>
+    <th><img src="./source/apps/scalable/davinci-resolve-pannels.svg"></th>
+    <th><img src="./source/apps/scalable/davinci-resolve.svg"></th>
+    <th><img src="./source/apps/scalable/davinci-resolve-uninstaller.svg"></th>
+  </tr>
+  <tr>
     <th><img src="./source/apps/scalable/mysql-workbench.svg"></th>
     <th><img src="./source/apps/scalable/godot.svg"></th>
     <th><img src="./source/apps/scalable/fspy.svg"></th>
     <th><img src="./source/apps/scalable/app-image-launcher.svg"></th>
-        <th><img src="./source/apps/scalable/PrusaSlicer-gcodeviewer.svg"></th>
+    <th><img src="./source/apps/scalable/PrusaSlicer-gcodeviewer.svg"></th>
     <th><img src="./source/apps/scalable/PrusaSlicer.svg"></th>
     <th><img src="./source/apps/scalable/filezilla.svg" width="100"></th>
     <th><img src="./source/apps/scalable/vivado.svg" width="100"></th>
