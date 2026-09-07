@@ -57,6 +57,8 @@ def build_theme(dark_mode: bool):
                     
                     # Iterate over all icons in the folder.
                     for icon in os.listdir(f'{SRC_DIR}/{section}/{size}'):
+                        if not path.isfile(f'{SRC_DIR}/{section}/{size}/{icon}'):
+                            continue
                         dest_icon = icon
                         # Is this a darkmode icon?
                         if '-dark.svg' in icon:
