@@ -558,6 +558,8 @@
         "wireless-symbolic.svg",
         "wireless-80-symbolic.svg",
         "network-wireless-100.svg",
+        "network-wireless-100-symbolic.svg",
+        "network-wireless-connected.svg",
         "network-wireless-signal-full-symbolic.svg"
     ],
     "nm-signal-75.svg": [
@@ -567,8 +569,8 @@
         "good-signal.svg",
         "idle-good-signal.svg",
         "receiving-good-signal.svg",
-        "network-wireless-.svg",
         "transmitting-good-signal.svg",
+        "network-wireless-60.svg",
         "network-wireless-80.svg"
     ],
     "nm-signal-50.svg": [
@@ -578,7 +580,10 @@
         "low-signal.svg",
         "receiving-low-signal.svg",
         "transmitting-low-signal.svg",
-        "network-wireless-50.svg"
+        "network-wireless-40.svg",
+        "network-wireless-40-symbolic.svg",
+        "network-wireless-50.svg",
+        "network-wireless-50-symbolic.svg"
     ],
     "nm-signal-25.svg": [
         "network-wireless-signal-low.svg",
@@ -588,7 +593,9 @@
         "idle-bad-signal.svg",
         "network-wireless-signal-weak.svg",
         "receiving-bad-signal.svg",
-        "transmitting-bad-signal.svg"
+        "transmitting-bad-signal.svg",
+        "network-wireless-20.svg",
+        "network-wireless-20-symbolic.svg"
     ],
     "nm-signal-0.svg": [
         "network-wireless-offline-symbolic.svg",
@@ -601,7 +608,8 @@
         "wireless-disabled-symbolic.svg",
         "wireless-disconnect-symbolic.svg",
         "wireless-0-symbolic.svg",
-        "network-wireless-0.svg"
+        "network-wireless-0.svg",
+        "network-wireless-0-symbolic.svg"
     ],
     "nm-signal-100-secure.svg": [
         "network-wireless-secure-signal-excellent.svg",
@@ -622,6 +630,8 @@
         "idle-good-signal-lock.svg",
         "receiving-good-signal-lock.svg",
         "transmitting-good-signal-lock.svg",
+        "network-wireless-60-locked.svg",
+        "network-wireless-80-locked.svg",
         "network-wireless-signal-high-secure-symbolic.svg"
     ],
     "nm-signal-50-secure.svg": [
@@ -631,6 +641,8 @@
         "low-signal-lock.svg",
         "receiving-low-signal-lock.svg",
         "transmitting-low-signal-lock.svg",
+        "network-wireless-40-locked.svg",
+        "network-wireless-50-locked.svg",
         "network-wireless-signal-medium-secure-symbolic.svg"
     ],
     "nm-signal-25-secure.svg": [
@@ -641,12 +653,14 @@
         "idle-bad-signal-lock.svg",
         "receiving-bad-signal-lock.svg",
         "transmitting-bad-signal-lock.svg",
+        "network-wireless-20-locked.svg",
         "network-wireless-signal-low-secure-symbolic.svg"
     ],
     "nm-signal-0-secure.svg": [
         "network-wireless-secure-signal-none.svg",
         "network-wireless-signal-weak-secure-symbolic.svg",
         "nm-signal-00-secure.svg",
+        "network-wireless-0-locked.svg",
         "network-wirelss-no-route-secure-symbolic.svg"
     ],
     "night-light-disabled-10-symbolic.svg": [],
