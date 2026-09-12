@@ -11,7 +11,7 @@ SYSTEM_INSTALL = '/usr/share/icons/'
 
 THEME_NAME = 'kubu'
 
-IGNORE_FOLDERS = ['templates', '__pycache__']
+IGNORE_FOLDERS = ['templates', '__pycache__', 'source']
 
 COPY_ROOT_FILES = ['AUTHORS', 'COPYING', 'index.theme']
 
